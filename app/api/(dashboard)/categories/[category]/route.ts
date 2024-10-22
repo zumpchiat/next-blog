@@ -1,7 +1,6 @@
 import connect from "@/lib/db";
 import Category from "@/lib/modals/category";
 import User from "@/lib/modals/user";
-import { request } from "http";
 import { Types } from "mongoose";
 import { NextResponse } from "next/server";
 
